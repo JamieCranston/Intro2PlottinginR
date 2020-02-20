@@ -1,5 +1,5 @@
 # Intro2PlottinginR
-This repository contains materials I made for my Learning and Teaching in Higher Education Assesment, peer observed teach.  
+This repository contains materials I made for my Learning and Teaching in Higher Education Assessment, peer observed teach.  
 
 The materials were made to help me deliver a 45 minute sessions entitled "Data Visualisation: theory and practice" to my research group meeting.   
 
